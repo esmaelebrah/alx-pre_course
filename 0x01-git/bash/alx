@@ -1,2 +1,3 @@
- Merge conflict in bash/alx
+#!/bin/bash
+echo "ALX"
 
